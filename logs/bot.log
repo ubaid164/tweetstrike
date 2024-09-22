@@ -1,0 +1,697 @@
+2024-09-10 20:17:17,379 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-10 20:18:44,940 - root - INFO - Button clicked with data: show_ads
+2024-09-11 16:09:01,381 - root - INFO - Button clicked with data: show_ads
+2024-09-11 16:09:06,112 - root - INFO - Button clicked with data: show_ads
+2024-09-11 16:09:06,762 - root - INFO - Button clicked with data: show_ads
+2024-09-11 16:09:06,904 - root - INFO - Button clicked with data: show_ads
+2024-09-11 16:09:07,146 - root - INFO - Button clicked with data: show_ads
+2024-09-11 16:09:07,179 - root - INFO - Button clicked with data: show_ads
+2024-09-11 16:22:42,548 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-11 16:35:45,856 - root - INFO - Button clicked with data: show_ads
+2024-09-11 16:50:25,651 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-11 17:06:48,911 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:06:56,581 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:06:57,765 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:06:57,935 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:06:58,109 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:06:58,311 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:07:02,669 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:07:02,818 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:07:02,972 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:07:03,163 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:07:05,238 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:07:09,159 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:07:09,264 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:07:09,528 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:22:19,549 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:22:19,550 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-11 17:22:24,578 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-11 17:22:24,877 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:22:25,601 - root - INFO - Button clicked with data: preview_ad_button
+2024-09-11 17:22:25,602 - root - INFO - Preview button clicked: preview_ad_button
+2024-09-11 17:22:25,651 - root - INFO - Button clicked with data: preview_ad_text
+2024-09-11 17:22:25,651 - root - INFO - Preview button clicked: preview_ad_text
+2024-09-11 17:22:28,147 - root - INFO - Button clicked with data: back_to_ads
+2024-09-11 17:22:28,147 - root - INFO - Back to Ads button clicked.
+2024-09-11 17:22:29,657 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:22:30,766 - root - INFO - Button clicked with data: ad_text
+2024-09-11 17:22:30,766 - root - INFO - Ad Text clicked, displaying pricing.
+2024-09-11 17:22:32,211 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:22:33,266 - root - INFO - Button clicked with data: pricing_Ad Text_15_days
+2024-09-11 17:22:36,219 - root - INFO - Button clicked with data: pricing_Ad Text_1_month
+2024-09-11 17:22:37,869 - root - INFO - Button clicked with data: pricing_Ad Text_1_day
+2024-09-11 17:22:38,532 - root - INFO - Button clicked with data: pricing_Ad Text_7_days
+2024-09-11 17:22:38,676 - root - INFO - Button clicked with data: pricing_Ad Text_7_days
+2024-09-11 17:22:38,846 - root - INFO - Button clicked with data: pricing_Ad Text_7_days
+2024-09-11 17:22:42,422 - root - INFO - Button clicked with data: back_to_ads
+2024-09-11 17:22:42,427 - root - INFO - Back to Ads button clicked.
+2024-09-11 17:22:43,880 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:22:46,282 - root - INFO - Button clicked with data: ad_button
+2024-09-11 17:22:46,283 - root - INFO - Ad Button clicked, displaying pricing.
+2024-09-11 17:22:47,750 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:22:48,736 - root - INFO - Button clicked with data: back_to_ads
+2024-09-11 17:22:48,736 - root - INFO - Back to Ads button clicked.
+2024-09-11 17:22:50,184 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:22:51,134 - root - INFO - Button clicked with data: ad_text
+2024-09-11 17:22:51,134 - root - INFO - Ad Text clicked, displaying pricing.
+2024-09-11 17:22:52,579 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:23:05,245 - root - INFO - Button clicked with data: pricing_Ad Text_1_month
+2024-09-11 17:23:06,558 - root - INFO - Button clicked with data: pricing_Ad Text_1_month
+2024-09-11 17:23:07,602 - root - INFO - Button clicked with data: pricing_Ad Text_15_days
+2024-09-11 17:23:08,337 - root - INFO - Button clicked with data: pricing_Ad Text_7_days
+2024-09-11 17:23:09,092 - root - INFO - Button clicked with data: pricing_Ad Text_1_day
+2024-09-11 17:23:14,070 - root - INFO - Button clicked with data: back_to_ads
+2024-09-11 17:23:14,070 - root - INFO - Back to Ads button clicked.
+2024-09-11 17:23:15,581 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:23:20,666 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-11 17:23:20,991 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:23:24,494 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:23:24,496 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-11 17:23:25,919 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:23:28,983 - root - INFO - Button clicked with data: preview_ad_button
+2024-09-11 17:23:28,983 - root - INFO - Preview button clicked: preview_ad_button
+2024-09-11 17:23:31,104 - root - INFO - Button clicked with data: back_to_ads
+2024-09-11 17:23:31,104 - root - INFO - Back to Ads button clicked.
+2024-09-11 17:23:32,536 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:23:35,385 - root - INFO - Button clicked with data: ad_text
+2024-09-11 17:23:35,385 - root - INFO - Ad Text clicked, displaying pricing.
+2024-09-11 17:23:36,837 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:23:41,582 - root - INFO - Button clicked with data: pricing_Ad Text_7_days
+2024-09-11 17:26:09,802 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:26:09,804 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-11 17:26:12,107 - root - INFO - Button clicked with data: ad_text
+2024-09-11 17:26:12,109 - root - INFO - Ad Text clicked, displaying pricing.
+2024-09-11 17:26:15,883 - root - INFO - Button clicked with data: pricing_Ad Text_1_month
+2024-09-11 17:26:16,052 - root - INFO - Button clicked with data: pricing_Ad Text_1_month
+2024-09-11 17:26:16,266 - root - INFO - Button clicked with data: pricing_Ad Text_1_month
+2024-09-11 17:38:59,902 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:38:59,904 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-11 17:39:08,300 - root - INFO - Button clicked with data: preview_ad_button
+2024-09-11 17:39:08,301 - root - INFO - Preview button clicked: preview_ad_button
+2024-09-11 17:39:14,656 - root - INFO - Button clicked with data: back_to_ads
+2024-09-11 17:39:14,656 - root - INFO - Back to Ads button clicked.
+2024-09-11 17:39:20,394 - root - INFO - Button clicked with data: ad_text
+2024-09-11 17:39:20,395 - root - INFO - Ad Text clicked, displaying pricing.
+2024-09-11 17:39:26,767 - root - INFO - Button clicked with data: pricing_Ad Text_1_month
+2024-09-11 17:39:26,768 - root - INFO - Pricing selected: pricing_Ad Text_1_month
+2024-09-11 17:40:05,593 - root - INFO - Button clicked with data: payment_yes
+2024-09-11 17:40:48,581 - root - INFO - Button clicked with data: pricing_Ad Text_1_month
+2024-09-11 17:40:48,583 - root - INFO - Pricing selected: pricing_Ad Text_1_month
+2024-09-11 17:40:52,175 - root - INFO - Button clicked with data: back_to_ads
+2024-09-11 17:40:52,177 - root - INFO - Back to Ads button clicked.
+2024-09-11 17:40:53,620 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:40:55,070 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:40:55,073 - root - INFO - Button clicked with data: back_to_ads
+2024-09-11 17:40:55,075 - root - INFO - Back to Ads button clicked.
+2024-09-11 17:40:56,519 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:40:57,173 - telethon.client.users - INFO - Sleeping for 3s (0:00:03) on SendMessageRequest flood wait
+2024-09-11 17:40:57,973 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:40:59,424 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:41:00,872 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:41:02,326 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:41:02,949 - telethon.client.users - INFO - Sleeping for 3s (0:00:03) on SendMessageRequest flood wait
+2024-09-11 17:41:02,979 - telethon.client.users - INFO - Sleeping for 3s (0:00:03) on SendMessageRequest flood wait
+2024-09-11 17:41:03,750 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:41:12,175 - root - INFO - Button clicked with data: payment_cancel
+2024-09-11 17:41:12,663 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:41:14,126 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:41:15,573 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:41:17,002 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:41:18,424 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:41:19,053 - telethon.client.updates - ERROR - Unhandled exception on handle_user_message
+Traceback (most recent call last):
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "c:\Users\NEW BARYAL LAPTOP\Desktop\raid_bot\src\handlers\admin_commands.py", line 223, in handle_user_message
+    await send_confirmation(client, event)
+  File "c:\Users\NEW BARYAL LAPTOP\Desktop\raid_bot\src\handlers\admin_commands.py", line 237, in send_confirmation
+    message = await event.respond(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\tl\custom\message.py", line 764, in respond
+    return await self._client.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\messages.py", line 905, in send_message
+    result = await self(request)
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\users.py", line 87, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.MessageTooLongError: Message was too long (caused by SendMessageRequest)
+2024-09-11 17:41:19,850 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:41:23,346 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-11 17:41:24,918 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:41:24,920 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-11 17:41:26,557 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:41:29,865 - root - INFO - Button clicked with data: ad_text
+2024-09-11 17:41:29,867 - root - INFO - Ad Text clicked, displaying pricing.
+2024-09-11 17:41:31,491 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:41:35,392 - root - INFO - Button clicked with data: pricing_Ad Text_1_month
+2024-09-11 17:41:35,393 - root - INFO - Pricing selected: pricing_Ad Text_1_month
+2024-09-11 17:41:36,844 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:41:38,335 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:41:39,784 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:41:41,258 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:41:42,146 - telethon.client.users - INFO - Sleeping for 10s (0:00:10) on SendMessageRequest flood wait
+2024-09-11 17:41:42,798 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:41:52,463 - telethon.client.users - INFO - Sleeping for 3s (0:00:03) on SendMessageRequest flood wait
+2024-09-11 17:42:06,232 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:42:07,416 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:42:08,841 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:42:10,285 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:42:11,729 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:42:13,233 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:42:14,671 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:42:16,107 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:42:16,744 - telethon.client.updates - ERROR - Unhandled exception on handle_user_message
+Traceback (most recent call last):
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "c:\Users\NEW BARYAL LAPTOP\Desktop\raid_bot\src\handlers\admin_commands.py", line 223, in handle_user_message
+    await send_confirmation(client, event)
+  File "c:\Users\NEW BARYAL LAPTOP\Desktop\raid_bot\src\handlers\admin_commands.py", line 237, in send_confirmation
+    message = await event.respond(
+              ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\tl\custom\message.py", line 764, in respond
+    return await self._client.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\messages.py", line 905, in send_message
+    result = await self(request)
+             ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\users.py", line 87, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.MessageTooLongError: Message was too long (caused by SendMessageRequest)
+2024-09-11 17:42:17,624 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 17:42:36,428 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:42:36,429 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-11 17:42:39,327 - root - INFO - Button clicked with data: ad_button
+2024-09-11 17:42:39,328 - root - INFO - Ad Button clicked, displaying pricing.
+2024-09-11 17:42:43,255 - root - INFO - Button clicked with data: pricing_Ad Button_15_days
+2024-09-11 17:42:43,256 - root - INFO - Pricing selected: pricing_Ad Button_15_days
+2024-09-11 17:43:20,092 - root - INFO - Button clicked with data: payment_yes
+2024-09-11 17:52:04,247 - root - INFO - Button clicked with data: show_ads
+2024-09-11 17:52:04,248 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-11 17:52:05,990 - root - INFO - Button clicked with data: ad_button
+2024-09-11 17:52:05,991 - root - INFO - Ad Button clicked, displaying pricing.
+2024-09-11 17:52:10,027 - root - INFO - Button clicked with data: pricing_Ad Button_1_month
+2024-09-11 17:52:10,028 - root - INFO - Pricing selected: pricing_Ad Button_1_month
+2024-09-11 18:15:52,308 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 18:26:06,444 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 18:32:47,285 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 18:59:26,850 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 20:06:11,045 - root - INFO - Button clicked with data: show_ads
+2024-09-11 20:06:11,045 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-11 20:06:15,131 - root - INFO - Button clicked with data: ad_text
+2024-09-11 20:06:15,131 - root - INFO - Ad Text clicked, displaying pricing.
+2024-09-11 20:06:17,569 - root - INFO - Button clicked with data: pricing_Ad Text_1_month
+2024-09-11 20:06:17,583 - root - INFO - Pricing selected: pricing_Ad Text_1_month
+2024-09-11 20:06:34,186 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 20:07:42,286 - root - INFO - Button clicked with data: show_ads
+2024-09-11 20:07:42,288 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-11 20:07:46,585 - root - INFO - Button clicked with data: ad_button
+2024-09-11 20:07:46,589 - root - INFO - Ad Button clicked, displaying pricing.
+2024-09-11 20:07:50,820 - root - INFO - Button clicked with data: pricing_Ad Button_1_month
+2024-09-11 20:07:50,827 - root - INFO - Pricing selected: pricing_Ad Button_1_month
+2024-09-11 21:39:54,057 - root - INFO - Button clicked with data: show_ads
+2024-09-11 21:39:54,057 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-11 21:39:59,879 - root - INFO - Button clicked with data: ad_text
+2024-09-11 21:39:59,879 - root - INFO - Ad Text clicked, displaying pricing.
+2024-09-11 21:40:03,982 - root - INFO - Button clicked with data: pricing_Ad Text_1_month
+2024-09-11 21:40:03,983 - root - INFO - Pricing selected: pricing_Ad Text_1_month
+2024-09-11 21:41:15,778 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 22:58:38,869 - root - INFO - Button clicked with data: show_ads
+2024-09-11 22:58:38,881 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-11 22:58:44,134 - root - INFO - Button clicked with data: ad_text
+2024-09-11 22:58:44,135 - root - INFO - Ad Text clicked, displaying pricing.
+2024-09-11 22:59:04,410 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 23:00:12,984 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 23:00:24,618 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 23:01:05,356 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 23:02:08,874 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 23:02:14,557 - telethon.network.connection.connection - WARNING - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-09-11 23:02:14,562 - telethon.network.mtprotosender - INFO - Connection closed while receiving data: [WinError 64] The specified network name is no longer available
+2024-09-11 23:02:14,570 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2024-09-11 23:02:14,575 - telethon.network.connection.connection - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-09-11 23:02:14,578 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.52:443/TcpFull...
+2024-09-11 23:02:14,861 - telethon.network.mtprotosender - INFO - Connection to 149.154.175.52:443/TcpFull complete!
+2024-09-11 23:02:41,462 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 23:02:56,138 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 23:04:44,731 - root - INFO - Button clicked with data: pricing_Ad Text_15_days
+2024-09-11 23:04:44,732 - root - INFO - Pricing selected: pricing_Ad Text_15_days
+2024-09-11 23:05:14,796 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 23:06:34,283 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 23:13:14,445 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-11 23:15:32,589 - root - INFO - Button clicked with data: show_ads
+2024-09-11 23:15:32,591 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-11 23:15:35,347 - root - INFO - Button clicked with data: ad_text
+2024-09-11 23:15:35,347 - root - INFO - Ad Text clicked, displaying pricing.
+2024-09-11 23:15:59,406 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 23:18:44,588 - root - INFO - Button clicked with data: show_ads
+2024-09-11 23:18:44,590 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-11 23:18:46,549 - root - INFO - Button clicked with data: ad_text
+2024-09-11 23:18:46,549 - root - INFO - Ad Text clicked, displaying pricing.
+2024-09-11 23:18:59,376 - telethon.client.updates - INFO - Got difference for channel 2219808114 updates
+2024-09-11 23:20:27,469 - root - INFO - Button clicked with data: back_to_ads
+2024-09-11 23:20:27,470 - root - INFO - Back to Ads button clicked.
+2024-09-11 23:34:03,479 - root - INFO - Received message: /start from user 6304908405 in chat 6304908405
+2024-09-11 23:34:08,232 - root - INFO - Received message: /raidsetting from user 6304908405 in chat 6304908405
+2024-09-11 23:34:08,238 - root - INFO - Received /raidsetting command from user 6304908405 in chat 6304908405
+2024-09-11 23:34:08,239 - root - INFO - Command was received in private chat, but it is only for group chats.
+2024-09-11 23:34:13,049 - root - INFO - Received message: /raidsetting from user 6304908405 in chat 6304908405
+2024-09-11 23:34:13,051 - root - INFO - Received /raidsetting command from user 6304908405 in chat 6304908405
+2024-09-11 23:34:13,051 - root - INFO - Command was received in private chat, but it is only for group chats.
+2024-09-11 23:34:16,838 - root - INFO - Received message: /start from user 6304908405 in chat 6304908405
+2024-09-11 23:35:57,806 - root - INFO - Received message: /raidsetting from user 6304908405 in chat 6304908405
+2024-09-11 23:35:57,809 - root - INFO - Received /raidsetting command from user 6304908405 in chat 6304908405
+2024-09-11 23:35:57,809 - root - INFO - Command was received in private chat, but it is only for group chats.
+2024-09-11 23:36:29,094 - root - INFO - Received message: /raidsetting from user 6304908405 in chat 6304908405
+2024-09-11 23:36:29,096 - root - INFO - Received /raidsetting command from user 6304908405 in chat 6304908405
+2024-09-11 23:36:29,096 - root - INFO - Command was received in private chat, but it is only for group chats.
+2024-09-11 23:36:50,943 - root - INFO - Received message: /start from user 6304908405 in chat 6304908405
+2024-09-11 23:37:50,154 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-11 23:38:00,785 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-11 23:38:09,190 - root - INFO - Received message: /start@Engagetrackerbot from user 6304908405 in chat -1002406940361
+2024-09-11 23:38:16,962 - root - INFO - Received message: /raidsetting@Engagetrackerbot from user 6304908405 in chat -1002406940361
+2024-09-11 23:38:16,969 - root - INFO - Received /raidsetting command from user 6304908405 in chat -1002406940361
+2024-09-11 23:38:16,970 - root - INFO - Checking if user 6304908405 is admin in chat -1002406940361
+2024-09-11 23:38:17,886 - root - INFO - User 6304908405 is admin. Starting the raid configuration process.
+2024-09-11 23:38:57,512 - root - INFO - Received message: https://x.com/MonstersCoins/status/1833927990004068724?t=iWuM617V7QwfcbsQB87wyw&s=19 from user 6304908405 in chat -1002406940361
+2024-09-11 23:38:57,521 - telethon.client.updates - ERROR - Unhandled exception on handle_raid_input
+Traceback (most recent call last):
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "c:\Users\NEW BARYAL LAPTOP\Desktop\raid_bot\src\handlers\group_commands.py", line 73, in handle_raid_input
+    raid_data[chat_id]['target_likes'] = int(message)
+                                         ^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'https://x.com/MonstersCoins/status/1833927990004068724?t=iWuM617V7QwfcbsQB87wyw&s=19'
+2024-09-11 23:39:42,286 - telethon.client.updates - INFO - Got difference for channel 2406940361 updates
+2024-09-11 23:39:42,288 - root - INFO - Received message: 45 from user 6304908405 in chat -1002406940361
+2024-09-11 23:39:50,458 - root - INFO - Received message: 34 from user 6304908405 in chat -1002406940361
+2024-09-11 23:39:54,959 - root - INFO - Received message: 1 from user 6304908405 in chat -1002406940361
+2024-09-11 23:40:01,607 - root - INFO - Received message: 0 from user 6304908405 in chat -1002406940361
+2024-09-11 23:40:03,369 - root - ERROR - Failed to fetch tweet stats: 403 - {"client_id":"29313666","detail":"When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.","registration_url":"https://developer.twitter.com/en/docs/projects/overview","title":"Client Forbidden","required_enrollment":"Appropriate Level of API Access","reason":"client-not-enrolled","type":"https://api.twitter.com/2/problems/client-forbidden"}
+2024-09-11 23:40:25,264 - root - INFO - Received message: /start@Engagetrackerbot from user 6304908405 in chat -1002406940361
+2024-09-11 23:40:30,594 - root - INFO - Received message: /start from user 6304908405 in chat 6304908405
+2024-09-13 03:29:40,316 - root - INFO - Received message: /start from user 6412685833 in chat 6412685833
+2024-09-13 03:29:47,909 - root - INFO - Received message: /cancel from user 6412685833 in chat 6412685833
+2024-09-13 03:29:49,548 - root - INFO - Button clicked with data: show_ads
+2024-09-13 03:29:49,549 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-13 03:29:52,784 - root - INFO - Button clicked with data: ad_button
+2024-09-13 03:29:52,784 - root - INFO - Ad Button clicked, displaying pricing.
+2024-09-13 03:29:56,994 - root - INFO - Button clicked with data: pricing_Ad Button_1_month
+2024-09-13 03:29:56,995 - root - INFO - Pricing selected: pricing_Ad Button_1_month
+2024-09-13 03:37:59,780 - root - INFO - Received message: /cancel from user 6412685833 in chat 6412685833
+2024-09-13 03:38:01,697 - root - INFO - Received message: /start from user 6412685833 in chat 6412685833
+2024-09-13 03:38:07,387 - root - INFO - Button clicked with data: show_ads
+2024-09-13 03:38:07,387 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-13 03:38:12,053 - root - INFO - Button clicked with data: preview_ad_text
+2024-09-13 03:38:12,069 - root - INFO - Preview button clicked: preview_ad_text
+2024-09-13 03:38:15,625 - root - INFO - Button clicked with data: preview_combo
+2024-09-13 03:38:15,625 - root - INFO - Preview button clicked: preview_combo
+2024-09-13 03:38:17,479 - root - INFO - Button clicked with data: back_to_ads
+2024-09-13 03:38:17,479 - root - INFO - Back to Ads button clicked.
+2024-09-13 03:38:20,760 - root - INFO - Button clicked with data: ad_text
+2024-09-13 03:38:20,762 - root - INFO - Ad Text clicked, displaying pricing.
+2024-09-13 03:38:23,886 - root - INFO - Button clicked with data: pricing_Ad Text_1_month
+2024-09-13 03:38:23,886 - root - INFO - Pricing selected: pricing_Ad Text_1_month
+2024-09-13 03:42:07,231 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 04:11:06,218 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 04:11:06,221 - telethon.client.updates - ERROR - Unhandled exception on handle_group_addition
+Traceback (most recent call last):
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "c:\Users\NEW BARYAL LAPTOP\Desktop\raid_bot\src\handlers\group_addition_handler.py", line 10, in handle_group_addition
+    if event.user_added and event.action_message.from_id == event.user_id:
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'from_id'
+2024-09-13 04:11:06,233 - telethon.client.updates - ERROR - Unhandled exception on handle_group_addition
+Traceback (most recent call last):
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "c:\Users\NEW BARYAL LAPTOP\Desktop\raid_bot\src\handlers\group_addition_handler.py", line 10, in handle_group_addition
+    if event.user_added and event.action_message.from_id == event.user_id:
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'from_id'
+2024-09-13 04:11:13,523 - telethon.client.updates - ERROR - Unhandled exception on handle_group_addition
+Traceback (most recent call last):
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "c:\Users\NEW BARYAL LAPTOP\Desktop\raid_bot\src\handlers\group_addition_handler.py", line 10, in handle_group_addition
+    if event.user_added and event.action_message.from_id == event.user_id:
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'from_id'
+2024-09-13 04:11:13,527 - telethon.client.updates - ERROR - Unhandled exception on handle_group_addition
+Traceback (most recent call last):
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "c:\Users\NEW BARYAL LAPTOP\Desktop\raid_bot\src\handlers\group_addition_handler.py", line 10, in handle_group_addition
+    if event.user_added and event.action_message.from_id == event.user_id:
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'from_id'
+2024-09-13 04:11:14,346 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 04:13:36,932 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 04:14:04,151 - root - INFO - Received message: /start from user 6412685833 in chat 6412685833
+2024-09-13 04:14:06,661 - root - INFO - Received message: /cancel from user 6412685833 in chat 6412685833
+2024-09-13 04:14:08,501 - root - INFO - Button clicked with data: show_ads
+2024-09-13 04:14:08,502 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-13 04:15:18,629 - root - INFO - Button clicked with data: ad_text
+2024-09-13 04:15:18,634 - root - INFO - Ad Text clicked, displaying pricing.
+2024-09-13 04:15:22,810 - root - INFO - Button clicked with data: pricing_Ad Text_15_days
+2024-09-13 04:15:22,811 - root - INFO - Pricing selected: pricing_Ad Text_15_days
+2024-09-13 04:15:32,185 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 04:15:43,944 - telethon.client.updates - INFO - Got difference for channel 2484757158 updates
+2024-09-13 04:15:50,392 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 04:16:59,521 - root - INFO - Received message: hi from user -1002324213865 in chat -1002324213865
+2024-09-13 04:18:40,561 - root - INFO - Received message: Hy from user 6412685833 in chat -1002484757158
+2024-09-13 04:18:48,240 - root - INFO - Received message: Hy from user -1002324213865 in chat -1002324213865
+2024-09-13 04:19:09,716 - root - INFO - Received message: Huuu from user -1002324213865 in chat -1002324213865
+2024-09-13 04:19:54,950 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 04:20:15,470 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 04:20:22,493 - root - INFO - Received message: /start@Engagetrackerbot from user 6304908405 in chat -1002406940361
+2024-09-13 04:20:30,954 - root - INFO - Received message: /start from user 6304908405 in chat 6304908405
+2024-09-13 04:24:35,916 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 04:24:58,072 - telethon.client.updates - INFO - Got difference for channel 2406940361 updates
+2024-09-13 04:25:04,935 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 04:25:42,422 - root - INFO - Received message: He from user -1002324213865 in chat -1002324213865
+2024-09-13 04:29:57,365 - root - INFO - Received message: Hey from user 6412685833 in chat -1002484757158
+2024-09-13 04:32:05,147 - root - INFO - Received message: Hy from user 6412685833 in chat -1002484757158
+2024-09-13 04:32:09,443 - root - INFO - Received message: Hy from user -1002324213865 in chat -1002324213865
+2024-09-13 04:37:56,493 - root - INFO - Received message: Hh from user 6412685833 in chat -1002484757158
+2024-09-13 04:38:04,265 - root - INFO - Received message: Hy from user -1002324213865 in chat -1002324213865
+2024-09-13 04:48:54,789 - root - INFO - Received message: Hy from user 6304908405 in chat -1002406940361
+2024-09-13 04:49:08,737 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 04:49:27,461 - telethon.client.updates - INFO - Got difference for channel 2406940361 updates
+2024-09-13 04:49:42,432 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 04:49:47,835 - root - INFO - Received message: Hy from user 6304908405 in chat -1002406940361
+2024-09-13 04:52:05,767 - root - INFO - Received message: Hy from user 6412685833 in chat -1002484757158
+2024-09-13 04:54:02,517 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 04:54:17,448 - root - INFO - Received message: Hy from user 6304908405 in chat -4590250580
+2024-09-13 04:56:15,964 - root - INFO - Received message: Hyyyy from user 6304908405 in chat -4590250580
+2024-09-13 04:56:56,995 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 05:02:09,025 - root - INFO - Received message: No from user 6304908405 in chat -4590250580
+2024-09-13 05:03:02,170 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 05:03:18,384 - root - INFO - Received message: Hello from user 6304908405 in chat -4590250580
+2024-09-13 05:04:27,750 - telethon.client.updates - INFO - Account is now banned in 2406940361 so we can no longer fetch updates from it
+2024-09-13 05:12:12,845 - root - INFO - Received message: /cancel from user 6412685833 in chat 6412685833
+2024-09-13 05:12:15,121 - root - INFO - Button clicked with data: show_ads
+2024-09-13 05:12:15,125 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-13 05:12:17,352 - root - INFO - Button clicked with data: preview_ad_button
+2024-09-13 05:12:17,353 - root - INFO - Preview button clicked: preview_ad_button
+2024-09-13 05:12:19,520 - root - INFO - Button clicked with data: back_to_ads
+2024-09-13 05:12:19,520 - root - INFO - Back to Ads button clicked.
+2024-09-13 05:12:21,569 - root - INFO - Button clicked with data: ad_text
+2024-09-13 05:12:21,569 - root - INFO - Ad Text clicked, displaying pricing.
+2024-09-13 05:12:23,635 - root - INFO - Button clicked with data: pricing_Ad Text_1_month
+2024-09-13 05:12:23,635 - root - INFO - Pricing selected: pricing_Ad Text_1_month
+2024-09-13 05:12:39,704 - root - INFO - Button clicked with data: back_to_ads
+2024-09-13 05:12:39,704 - root - INFO - Back to Ads button clicked.
+2024-09-13 06:08:47,025 - root - INFO - Button clicked with data: combo
+2024-09-13 06:08:47,045 - root - INFO - Combo Button clicked, displaying pricing.
+2024-09-13 06:08:49,686 - root - INFO - Button clicked with data: back_to_ads
+2024-09-13 06:08:49,686 - root - INFO - Back to Ads button clicked.
+2024-09-13 06:08:52,130 - root - INFO - Button clicked with data: ad_text
+2024-09-13 06:08:52,130 - root - INFO - Ad Text clicked, displaying pricing.
+2024-09-13 06:08:54,301 - root - INFO - Button clicked with data: ad_button
+2024-09-13 06:08:54,303 - root - INFO - Ad Button clicked, displaying pricing.
+2024-09-13 06:08:56,852 - root - INFO - Button clicked with data: pricing_Ad Button_1_month
+2024-09-13 06:08:56,852 - root - INFO - Pricing selected: pricing_Ad Button_1_month
+2024-09-13 06:09:11,520 - root - INFO - Received message: /start@Engagetrackerbot from user 6412685833 in chat -1002484757158
+2024-09-13 06:09:18,357 - root - INFO - Received message: /raidsetting@Engagetrackerbot from user 6412685833 in chat -1002484757158
+2024-09-13 06:09:18,371 - root - INFO - Received /raidsetting command from user 6412685833 in chat -1002484757158
+2024-09-13 06:09:18,373 - root - INFO - Checking if user 6412685833 is admin in chat -1002484757158
+2024-09-13 06:09:19,287 - root - INFO - User 6412685833 is admin. Starting the raid configuration process.
+2024-09-13 06:09:51,025 - root - INFO - Received message: https://x.com/hughes_mat07/status/1834393538030719037?t=SHI-CuBLgxLOCj4RelsWtg&s=19 from user 6412685833 in chat -1002484757158
+2024-09-13 06:09:51,035 - telethon.client.updates - ERROR - Unhandled exception on handle_raid_input
+Traceback (most recent call last):
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "d:\raid_bot\src\handlers\group_commands.py", line 73, in handle_raid_input
+    raid_data[chat_id]['target_likes'] = int(message)
+                                         ^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'https://x.com/hughes_mat07/status/1834393538030719037?t=SHI-CuBLgxLOCj4RelsWtg&s=19'
+2024-09-13 06:09:58,917 - root - INFO - Received message: 4 from user 6412685833 in chat -1002484757158
+2024-09-13 06:10:02,400 - root - INFO - Received message: 8 from user 6412685833 in chat -1002484757158
+2024-09-13 06:10:04,335 - root - INFO - Received message: 0 from user 6412685833 in chat -1002484757158
+2024-09-13 06:10:07,200 - root - INFO - Received message: 3 from user 6412685833 in chat -1002484757158
+2024-09-13 06:10:08,358 - root - ERROR - Failed to fetch tweet stats: 403 - {"client_id":"29313666","detail":"When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.","registration_url":"https://developer.twitter.com/en/docs/projects/overview","title":"Client Forbidden","required_enrollment":"Appropriate Level of API Access","reason":"client-not-enrolled","type":"https://api.twitter.com/2/problems/client-forbidden"}
+2024-09-13 06:21:53,291 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 06:26:19,199 - root - INFO - Received message: /raidsetting@Engagetrackerbot from user 6412685833 in chat -1002484757158
+2024-09-13 06:26:19,199 - root - INFO - Received /raidsetting command from user 6412685833 in chat -1002484757158
+2024-09-13 06:26:19,201 - root - INFO - Checking if user 6412685833 is admin in chat -1002484757158
+2024-09-13 06:26:20,115 - root - INFO - User 6412685833 is admin. Starting the raid configuration process.
+2024-09-13 06:26:25,237 - root - INFO - Received message: https://x.com/hughes_mat07/status/1834393538030719037?t=SHI-CuBLgxLOCj4RelsWtg&s=19 from user 6412685833 in chat -1002484757158
+2024-09-13 06:26:25,243 - telethon.client.updates - ERROR - Unhandled exception on handle_raid_input
+Traceback (most recent call last):
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "d:\raid_bot\src\handlers\group_commands.py", line 73, in handle_raid_input
+    raid_data[chat_id]['target_likes'] = int(message)
+                                         ^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'https://x.com/hughes_mat07/status/1834393538030719037?t=SHI-CuBLgxLOCj4RelsWtg&s=19'
+2024-09-13 06:26:27,769 - root - INFO - Received message: 4 from user 6412685833 in chat -1002484757158
+2024-09-13 06:26:30,666 - root - INFO - Received message: 7 from user 6412685833 in chat -1002484757158
+2024-09-13 06:26:33,838 - root - INFO - Received message: 8 from user 6412685833 in chat -1002484757158
+2024-09-13 06:26:36,608 - root - INFO - Received message: 3 from user 6412685833 in chat -1002484757158
+2024-09-13 06:26:37,653 - root - ERROR - Failed to fetch tweet stats: 403 - {"client_id":"29324411","detail":"When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.","registration_url":"https://developer.twitter.com/en/docs/projects/overview","title":"Client Forbidden","required_enrollment":"Appropriate Level of API Access","reason":"client-not-enrolled","type":"https://api.twitter.com/2/problems/client-forbidden"}
+2024-09-13 06:40:54,610 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 14:23:31,039 - root - INFO - Received message: /raidsetting@Engagetrackerbot from user 6412685833 in chat -1002484757158
+2024-09-13 14:23:31,041 - root - INFO - Received /raidsetting command from user 6412685833 in chat -1002484757158
+2024-09-13 14:23:31,041 - root - INFO - Checking if user 6412685833 is admin in chat -1002484757158
+2024-09-13 14:23:31,875 - root - INFO - User 6412685833 is admin. Starting the raid configuration process.
+2024-09-13 14:23:38,814 - root - INFO - Received message: https://x.com/hughes_mat07/status/1834393538030719037?t=SHI-CuBLgxLOCj4RelsWtg&s=19 from user 6412685833 in chat -1002484757158
+2024-09-13 14:23:38,819 - telethon.client.updates - ERROR - Unhandled exception on handle_raid_input
+Traceback (most recent call last):
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "d:\raid_bot\src\handlers\group_commands.py", line 73, in handle_raid_input
+    raid_data[chat_id]['target_likes'] = int(message)
+                                         ^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'https://x.com/hughes_mat07/status/1834393538030719037?t=SHI-CuBLgxLOCj4RelsWtg&s=19'
+2024-09-13 14:23:39,396 - root - INFO - Received message: 3 from user 6412685833 in chat -1002484757158
+2024-09-13 14:23:41,095 - root - INFO - Received message: 4 from user 6412685833 in chat -1002484757158
+2024-09-13 14:23:42,834 - root - INFO - Received message: 2 from user 6412685833 in chat -1002484757158
+2024-09-13 14:23:46,033 - root - INFO - Received message: 0 from user 6412685833 in chat -1002484757158
+2024-09-13 14:23:47,135 - root - ERROR - Failed to fetch tweet stats: 403 - {"client_id":"29324411","detail":"When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.","registration_url":"https://developer.twitter.com/en/docs/projects/overview","title":"Client Forbidden","required_enrollment":"Appropriate Level of API Access","reason":"client-not-enrolled","type":"https://api.twitter.com/2/problems/client-forbidden"}
+2024-09-13 14:36:02,372 - telethon.client.updates - INFO - Got difference for account updates
+2024-09-13 16:56:32,105 - telethon.network.connection.connection - WARNING - Server closed the connection: [WinError 1236] The network connection was aborted by the local system
+2024-09-13 16:56:32,152 - telethon.network.mtprotosender - INFO - Connection closed while receiving data: [WinError 1236] The network connection was aborted by the local system
+2024-09-13 16:56:32,152 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2024-09-13 16:56:32,152 - telethon.network.connection.connection - INFO - <class 'ConnectionAbortedError'> during disconnect: [WinError 1236] The network connection was aborted by the local system
+2024-09-13 16:56:32,168 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.52:443/TcpFull...
+2024-09-13 16:56:32,175 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 16:56:33,187 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 16:56:34,188 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 16:56:35,195 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 16:56:36,198 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 16:56:37,207 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 16:56:38,214 - telethon.network.mtprotosender - INFO - Failed reconnection attempt 1 with ConnectionError
+2024-09-13 16:56:39,235 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.52:443/TcpFull...
+2024-09-13 16:56:39,236 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:04:37,278 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-09-13 17:04:38,280 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:04:39,291 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:04:40,306 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:04:41,322 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:04:42,326 - telethon.network.mtprotosender - INFO - Failed reconnection attempt 2 with ConnectionError
+2024-09-13 17:04:43,332 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.52:443/TcpFull...
+2024-09-13 17:04:43,333 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:04:44,619 - telethon.network.mtprotosender - INFO - Connection to 149.154.175.52:443/TcpFull complete!
+2024-09-13 17:28:29,088 - telethon.network.connection.connection - WARNING - Server closed the connection: [WinError 1236] The network connection was aborted by the local system
+2024-09-13 17:28:29,128 - telethon.network.mtprotosender - INFO - Connection closed while receiving data: [WinError 1236] The network connection was aborted by the local system
+2024-09-13 17:28:29,128 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2024-09-13 17:28:29,128 - telethon.network.connection.connection - INFO - <class 'ConnectionAbortedError'> during disconnect: [WinError 1236] The network connection was aborted by the local system
+2024-09-13 17:28:29,152 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.52:443/TcpFull...
+2024-09-13 17:28:29,160 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:28:30,166 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:28:31,181 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:28:32,190 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:28:33,195 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:28:34,202 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:28:35,210 - telethon.network.mtprotosender - INFO - Failed reconnection attempt 1 with ConnectionError
+2024-09-13 17:28:36,218 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.52:443/TcpFull...
+2024-09-13 17:28:36,218 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:33:56,293 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: OSError: [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help
+2024-09-13 17:33:57,312 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:33:58,323 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:33:59,335 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:34:00,337 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:34:01,346 - telethon.network.mtprotosender - INFO - Failed reconnection attempt 2 with ConnectionError
+2024-09-13 17:34:02,349 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.52:443/TcpFull...
+2024-09-13 17:34:02,349 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-13 17:34:03,621 - telethon.network.mtprotosender - INFO - Connection to 149.154.175.52:443/TcpFull complete!
+2024-09-14 22:33:28,549 - root - INFO - Received message: /cancel from user 6412685833 in chat 6412685833
+2024-09-14 22:33:34,683 - root - INFO - Received message: /cancel from user 6412685833 in chat 6412685833
+2024-09-14 22:33:54,231 - root - INFO - Button clicked with data: show_ads
+2024-09-14 22:33:54,231 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-14 22:33:56,933 - root - INFO - Button clicked with data: ad_button
+2024-09-14 22:33:56,933 - root - INFO - Ad Button clicked, displaying pricing.
+2024-09-14 22:33:59,381 - root - INFO - Button clicked with data: pricing_Ad Button_15_days
+2024-09-14 22:33:59,381 - root - INFO - Pricing selected: pricing_Ad Button_15_days
+2024-09-14 22:34:07,521 - root - INFO - Received message: lfg from user 6412685833 in chat 6412685833
+2024-09-14 22:34:18,313 - root - INFO - Received message: https://global.toyota/ from user 6412685833 in chat 6412685833
+2024-09-14 22:34:24,753 - root - INFO - Received message: https://global.toyota/ from user 6412685833 in chat 6412685833
+2024-09-14 22:34:30,546 - root - INFO - Button clicked with data: payment_yes
+2024-09-14 22:34:46,531 - root - INFO - Received message: /start from user 6412685833 in chat 6412685833
+2024-09-14 22:34:49,519 - root - INFO - Button clicked with data: payment_cancel
+2024-09-14 22:35:54,482 - root - INFO - Button clicked with data: show_ads
+2024-09-14 22:35:54,484 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-14 22:36:07,969 - root - INFO - Button clicked with data: ad_button
+2024-09-14 22:36:07,969 - root - INFO - Ad Button clicked, displaying pricing.
+2024-09-14 22:36:15,916 - root - INFO - Button clicked with data: back_to_ads
+2024-09-14 22:36:15,917 - root - INFO - Back to Ads button clicked.
+2024-09-14 22:36:29,181 - root - INFO - Button clicked with data: preview_ad_button
+2024-09-14 22:36:29,183 - root - INFO - Preview button clicked: preview_ad_button
+2024-09-14 22:36:32,852 - root - INFO - Button clicked with data: preview_ad_text
+2024-09-14 22:36:32,852 - root - INFO - Preview button clicked: preview_ad_text
+2024-09-14 22:36:35,053 - root - INFO - Button clicked with data: back_to_ads
+2024-09-14 22:36:35,053 - root - INFO - Back to Ads button clicked.
+2024-09-14 22:36:41,180 - root - INFO - Button clicked with data: combo
+2024-09-14 22:36:41,184 - root - INFO - Combo Button clicked, displaying pricing.
+2024-09-14 22:36:47,089 - root - INFO - Button clicked with data: pricing_Combo_15_days
+2024-09-14 22:36:47,097 - root - INFO - Pricing selected: pricing_Combo_15_days
+2024-09-14 22:36:59,634 - root - INFO - Received message: ehehehe from user 6412685833 in chat 6412685833
+2024-09-14 22:37:42,053 - telethon.network.connection.connection - WARNING - Server closed the connection: [WinError 64] The specified network name is no longer available
+2024-09-14 22:37:42,057 - telethon.network.mtprotosender - INFO - Connection closed while receiving data: [WinError 64] The specified network name is no longer available
+2024-09-14 22:37:42,057 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2024-09-14 22:37:42,057 - telethon.network.connection.connection - INFO - <class 'ConnectionResetError'> during disconnect: [WinError 64] The specified network name is no longer available
+2024-09-14 22:37:42,064 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.52:443/TcpFull...
+2024-09-14 22:37:42,385 - telethon.network.mtprotosender - INFO - Connection to 149.154.175.52:443/TcpFull complete!
+2024-09-14 22:37:43,174 - root - INFO - Received message: Upcoming Launch from user 6412685833 in chat 6412685833
+2024-09-14 22:37:54,912 - root - INFO - Received message: https://global.toyota/ from user 6412685833 in chat 6412685833
+2024-09-14 22:38:08,606 - root - INFO - Button clicked with data: payment_yes
+2024-09-14 22:54:40,732 - telethon.network.connection.connection - WARNING - Server closed the connection: [WinError 1236] The network connection was aborted by the local system
+2024-09-14 22:54:40,772 - telethon.network.mtprotosender - INFO - Connection closed while receiving data: [WinError 1236] The network connection was aborted by the local system
+2024-09-14 22:54:40,780 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2024-09-14 22:54:40,780 - telethon.network.connection.connection - INFO - <class 'ConnectionAbortedError'> during disconnect: [WinError 1236] The network connection was aborted by the local system
+2024-09-14 22:54:40,780 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.52:443/TcpFull...
+2024-09-14 22:54:40,780 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-14 22:54:41,790 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-14 22:54:42,798 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-14 22:54:43,802 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-14 22:54:44,816 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-14 22:54:45,821 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-14 22:54:46,837 - telethon.network.mtprotosender - INFO - Failed reconnection attempt 1 with ConnectionError
+2024-09-14 22:54:47,851 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.52:443/TcpFull...
+2024-09-14 22:54:47,851 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-14 23:27:02,310 - telethon.network.mtprotosender - WARNING - Attempt 2 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-14 23:27:03,379 - telethon.network.mtprotosender - WARNING - Attempt 3 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-14 23:27:04,454 - telethon.network.mtprotosender - WARNING - Attempt 4 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-14 23:27:05,471 - telethon.network.mtprotosender - WARNING - Attempt 5 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-14 23:27:06,487 - telethon.network.mtprotosender - WARNING - Attempt 6 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-14 23:27:07,492 - telethon.network.mtprotosender - INFO - Failed reconnection attempt 2 with ConnectionError
+2024-09-14 23:27:08,504 - telethon.network.mtprotosender - INFO - Connecting to 149.154.175.52:443/TcpFull...
+2024-09-14 23:27:08,504 - telethon.network.mtprotosender - WARNING - Attempt 1 at connecting failed: PermissionError: [WinError 5] Access is denied
+2024-09-14 23:27:09,845 - telethon.network.mtprotosender - INFO - Connection to 149.154.175.52:443/TcpFull complete!
+2024-09-15 00:03:15,060 - root - INFO - Received message: /raidsetting from user 6412685833 in chat 6412685833
+2024-09-15 00:03:15,065 - root - INFO - Received /raidsetting command from user 6412685833 in chat 6412685833
+2024-09-15 00:03:15,067 - root - INFO - Command was received in private chat, but it is only for group chats.
+2024-09-15 00:04:39,839 - root - INFO - Received message: /start from user 6304908405 in chat -4590250580
+2024-09-15 00:04:58,985 - root - INFO - Received message: /raidsetting from user 6304908405 in chat -4590250580
+2024-09-15 00:04:58,993 - root - INFO - Received /raidsetting command from user 6304908405 in chat -4590250580
+2024-09-15 00:04:58,994 - root - INFO - Checking if user 6304908405 is admin in chat -4590250580
+2024-09-15 00:04:59,636 - root - INFO - User 6304908405 is admin. Starting the raid configuration process.
+2024-09-15 00:07:14,257 - root - INFO - Button clicked with data: payment_cancel
+2024-09-15 00:09:37,411 - root - INFO - Received message: https://x.com/Beliquoronsui/status/1834848166145147289?t=TMGFQYcDQU4dTvLDOvXgEw&s=19 from user 6304908405 in chat -4590250580
+2024-09-15 00:09:37,427 - telethon.client.updates - ERROR - Unhandled exception on handle_raid_input
+Traceback (most recent call last):
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "d:\raid_bot\src\handlers\group_commands.py", line 73, in handle_raid_input
+    raid_data[chat_id]['target_likes'] = int(message)
+                                         ^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'https://x.com/Beliquoronsui/status/1834848166145147289?t=TMGFQYcDQU4dTvLDOvXgEw&s=19'
+2024-09-15 00:09:37,457 - root - INFO - Received message: 4 from user 6304908405 in chat -4590250580
+2024-09-15 00:10:21,850 - root - INFO - Received message: 6 from user 6304908405 in chat -4590250580
+2024-09-15 00:10:36,120 - root - INFO - Received message: 5 from user 6304908405 in chat -4590250580
+2024-09-15 00:10:42,436 - root - INFO - Received message: 0 from user 6304908405 in chat -4590250580
+2024-09-15 00:10:44,326 - root - ERROR - Failed to fetch tweet stats: 403 - {"client_id":"29324411","detail":"When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.","registration_url":"https://developer.twitter.com/en/docs/projects/overview","title":"Client Forbidden","required_enrollment":"Appropriate Level of API Access","reason":"client-not-enrolled","type":"https://api.twitter.com/2/problems/client-forbidden"}
+2024-09-15 00:20:02,266 - root - INFO - Button clicked with data: show_ads
+2024-09-15 00:20:02,268 - root - INFO - Show Ads button clicked, showing ad pricing.
+2024-09-15 00:20:05,126 - root - INFO - Button clicked with data: ad_text
+2024-09-15 00:20:05,126 - root - INFO - Ad Text clicked, displaying pricing.
+2024-09-15 00:20:08,315 - root - INFO - Button clicked with data: pricing_Ad Text_15_days
+2024-09-15 00:20:08,316 - root - INFO - Pricing selected: pricing_Ad Text_15_days
+2024-09-15 11:07:12,171 - root - INFO - Received message: /raidsetting from user 6412685833 in chat 6412685833
+2024-09-15 11:07:12,173 - root - INFO - Received /raidsetting command from user 6412685833 in chat 6412685833
+2024-09-15 11:07:12,174 - root - INFO - Command was received in private chat, but it is only for group chats.
+2024-09-15 11:08:29,288 - root - INFO - Received message: @Engagetrackerbot from user 6412685833 in chat 6412685833
+2024-09-15 11:13:48,036 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.175.52:443/TcpFull...
+2024-09-15 11:13:48,037 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.175.52:443/TcpFull complete!
+2024-09-15 11:13:48,048 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-09-15 11:17:04,107 - root - INFO - Received message: /raidsetting from user 6412685833 in chat 6412685833
+2024-09-15 11:17:04,109 - root - INFO - Received /raidsetting command from user 6412685833 in chat 6412685833
+2024-09-15 11:17:04,110 - root - INFO - Command was received in private chat, but it is only for group chats.
+2024-09-15 11:17:07,158 - root - INFO - Received message: /start from user 6412685833 in chat 6412685833
+2024-09-15 11:17:31,615 - root - INFO - Received message: /start from user 6412685833 in chat 6412685833
+2024-09-15 11:17:36,378 - root - INFO - Received message: /raidsetting from user 6412685833 in chat 6412685833
+2024-09-15 11:17:36,379 - root - INFO - Received /raidsetting command from user 6412685833 in chat 6412685833
+2024-09-15 11:17:36,380 - root - INFO - Command was received in private chat, but it is only for group chats.
+2024-09-15 11:17:42,475 - root - INFO - Button clicked with data: ad_button
+2024-09-15 11:17:42,476 - root - INFO - Ad Button clicked, displaying pricing.
+2024-09-15 11:17:45,970 - root - INFO - Button clicked with data: back_to_ads
+2024-09-15 11:17:45,971 - root - INFO - Back to Ads button clicked.
+2024-09-15 11:21:31,980 - root - INFO - Received message: /raidsetting from user 6304908405 in chat -4590250580
+2024-09-15 11:21:31,981 - root - INFO - Received /raidsetting command from user 6304908405 in chat -4590250580
+2024-09-15 11:21:31,983 - root - INFO - Checking if user 6304908405 is admin in chat -4590250580
+2024-09-15 11:21:32,337 - root - INFO - User 6304908405 is admin. Starting the raid configuration process.
+2024-09-15 11:21:42,173 - root - INFO - Received message: /cancelraid from user 6304908405 in chat -4590250580
+2024-09-15 11:21:42,175 - telethon.client.updates - ERROR - Unhandled exception on handle_raid_input
+Traceback (most recent call last):
+  File "C:\Users\NEW BARYAL LAPTOP\AppData\Local\Programs\Python\Python312\Lib\site-packages\telethon\client\updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "d:\raid_bot\src\handlers\group_commands.py", line 73, in handle_raid_input
+    raid_data[chat_id]['target_likes'] = int(message)
+                                         ^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '/cancelraid'
+2024-09-15 11:24:19,549 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.175.52:443/TcpFull...
+2024-09-15 11:24:19,551 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.175.52:443/TcpFull complete!
+2024-09-15 11:24:19,562 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-09-15 11:54:30,843 - root - INFO - Received message: /raidsetting from user 6304908405 in chat -4590250580
+2024-09-15 11:54:30,845 - root - INFO - Received /raidsetting command from user 6304908405 in chat -4590250580
+2024-09-15 11:54:30,846 - root - INFO - Checking if user 6304908405 is admin in chat -4590250580
+2024-09-15 11:54:31,155 - root - INFO - User 6304908405 is admin. Starting the raid configuration process.
+2024-09-15 11:54:50,564 - root - INFO - Received /cancel_raid command from user 6304908405 in chat -4590250580
+2024-09-15 11:54:51,172 - root - INFO - Raid in chat -4590250580 has been canceled by admin 6304908405.
+2024-09-15 11:54:51,174 - root - INFO - Received message: /cancel_raid from user 6304908405 in chat -4590250580
+2024-09-15 11:55:35,361 - root - INFO - Received message: /start from user 6304908405 in chat 6304908405
+2024-09-15 11:55:51,673 - root - INFO - Received message: /start from user 6304908405 in chat 6304908405
+2024-09-15 11:55:54,895 - root - INFO - Received message: /raidsetting from user 6304908405 in chat 6304908405
+2024-09-15 11:55:54,896 - root - INFO - Received /raidsetting command from user 6304908405 in chat 6304908405
+2024-09-15 11:55:54,896 - root - INFO - Command was received in private chat, but it is only for group chats.
+2024-09-15 11:55:56,114 - root - INFO - Received message: /cancelraid from user 6304908405 in chat 6304908405
+2024-09-15 11:56:05,412 - root - INFO - Received message: /start from user 6304908405 in chat 6304908405
+2024-09-15 11:58:05,881 - root - INFO - Received message: /start from user 6304908405 in chat -4590250580
+2024-09-15 11:58:14,342 - root - INFO - Received message: /start from user 6304908405 in chat 6304908405
+2024-09-15 11:58:30,897 - root - INFO - Received message: /start from user 6304908405 in chat 6304908405
+2024-09-15 12:00:10,947 - root - INFO - Received message: /start from user 6304908405 in chat -4590250580
+2024-09-15 12:00:14,274 - root - INFO - Received message: /raid from user 6304908405 in chat -4590250580
+2024-09-15 12:00:21,829 - root - INFO - Received /cancel_raid command from user 6304908405 in chat -4590250580
+2024-09-15 12:00:22,443 - root - INFO - No active raid found to cancel.
+2024-09-15 12:00:22,444 - root - INFO - Received message: /cancel_raid from user 6304908405 in chat -4590250580
+2024-09-15 12:00:27,439 - root - INFO - Received message: /raid from user 6304908405 in chat -4590250580
+2024-09-15 12:02:44,839 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.175.52:443/TcpFull...
+2024-09-15 12:02:44,842 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.175.52:443/TcpFull complete!
+2024-09-15 12:02:44,860 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
+2024-09-15 12:03:49,452 - root - INFO - Received /cancel_raid command from user 6304908405 in chat -4590250580
+2024-09-15 12:03:50,064 - root - INFO - No active raid found to cancel.
+2024-09-15 12:03:50,066 - root - INFO - Received message: /cancel_raid from user 6304908405 in chat -4590250580
+2024-09-15 12:03:53,713 - root - INFO - Received message: /start from user 6304908405 in chat -4590250580
+2024-09-15 12:03:57,638 - root - INFO - Received message: /raid from user 6304908405 in chat -4590250580
+2024-09-15 12:03:57,640 - root - INFO - Received /raid command from user 6304908405 in chat -4590250580
+2024-09-15 12:03:57,640 - root - INFO - Checking if user 6304908405 is admin in chat -4590250580
+2024-09-15 12:03:57,950 - root - INFO - User 6304908405 is admin. Starting the raid configuration process.
+2024-09-15 12:06:00,136 - root - INFO - Received message: /start from user 6304908405 in chat -4590250580
+2024-09-15 12:06:04,173 - root - INFO - Received message: /raid from user 6304908405 in chat -4590250580
+2024-09-15 12:06:04,174 - root - INFO - Received /raid command from user 6304908405 in chat -4590250580
+2024-09-15 12:06:04,175 - root - INFO - Checking if user 6304908405 is admin in chat -4590250580
+2024-09-15 12:06:04,492 - root - INFO - User 6304908405 is admin. Starting the raid configuration process.
+2024-09-15 12:06:33,609 - root - INFO - Received message: https://x.com/DailyHamKombat/status/1834625798952591717?t=_ZsZTTk2HLmYnyxZqmF56w&s=19 from user 6304908405 in chat -4590250580
+2024-09-15 12:07:12,707 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.175.52:443/TcpFull...
+2024-09-15 12:07:12,708 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.175.52:443/TcpFull complete!
+2024-09-15 12:07:12,718 - telethon.network.mtprotosender - INFO - Not disconnecting (already have no connection)
